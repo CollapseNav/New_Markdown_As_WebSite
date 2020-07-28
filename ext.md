@@ -2,7 +2,7 @@
  * @Author: CollapseNav
  * @Date: 2020-06-21 00:24:14
  * @LastEditors: CollapseNav
- * @LastEditTime: 2020-07-29 00:35:41
+ * @LastEditTime: 2020-07-29 00:41:22
  * @Description: 
 --> 
 # 拓展
@@ -32,12 +32,12 @@
 <div>
 <video id="sc" controls width="100%">
   <!-- type需要对应上引用的资源 -->
-  <source src="./src/psc480.mp4" type="video/mp4">
+  <source src="./src/psc480.mp4" preload="none" type="video/mp4">
 </video>
 
 **Shelter 也超赞的！**
 
-<video id="sh" controls width="100%">
+<video id="sh" controls preload="none" width="100%">
   <!-- type需要对应上引用的资源 -->
   <source src="./src/ps480.mp4" type="video/mp4">
 </video>
