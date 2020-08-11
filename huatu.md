@@ -2,7 +2,7 @@
  * @Author: CollapseNav
  * @Date: 2020-06-11 22:20:21
  * @LastEditors: CollapseNav
- * @LastEditTime: 2020-06-25 20:50:32
+ * @LastEditTime: 2020-08-11 09:04:26
  * @Description: 
 -->
 
@@ -26,7 +26,6 @@
     先定义流程图的元素
     st=>start: 开始:>http://cn.bing.com
     op=>operation: 操作
-    son=>subroutine: 做点其他什么
     cond=>condition: 判断
     e=>end: 结束
 
@@ -40,7 +39,6 @@
 ```flow
 st=>start: 开始:>http://cn.bing.com
 op=>operation: 操作
-son=>subroutine: 做点其他什么
 cond=>condition: 判断
 e=>end: 结束
 

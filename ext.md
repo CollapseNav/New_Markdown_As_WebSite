@@ -2,7 +2,7 @@
  * @Author: CollapseNav
  * @Date: 2020-06-21 00:24:14
  * @LastEditors: CollapseNav
- * @LastEditTime: 2020-07-29 00:45:53
+ * @LastEditTime: 2020-08-11 09:05:35
  * @Description: 
 --> 
 # 拓展
@@ -90,6 +90,24 @@
 
 需要注意的一点是， todo 和代码块  被包在 **折叠** 中时会有点冲突，可能会出现格式错误，慎用！！！
 如果觉得拓展部分写起来很难受的话……可以自己在vscode中写 **[snippets](https://cn.bing.com/search?q=vocode+snippet)**
+
+## 插入音频
+
+使用以下 `html` 即可插入音频,由于只是音频,不像视频那样可能会有一些奇奇怪怪的要求
+
+```text
+<audio controls>
+  <source src="XXX.mp3" type="audio/mp3">
+</audio>
+```
+
+
+<audio controls style="width:100%">
+  <source src="./src/Miruku 100bpm.mp3" type="audio/mpeg">
+</audio>
+
+大概是不需要调整样式的
+顶多加个 `style="width:100%"`
 
 ## 文件预览(不直接下载)
 
