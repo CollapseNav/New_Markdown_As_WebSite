@@ -3,8 +3,8 @@
  * @Date: 2020-06-13 13:50:23
  * @LastEditors: CollapseNav
  * @LastEditTime: 2020-06-25 20:49:57
- * @Description: 
---> 
+ * @Description:
+-->
 # 远程写文档
 
 ## 前言: 为什么要远程(Remote)？
@@ -49,3 +49,5 @@ sudo apt-get install pandoc
 
 反正这些插件装完之后就可以直接开始写了，和在自己电脑上写应该没什么区别
 顶多就是延迟会高点
+
+[<--返回](./index.html)

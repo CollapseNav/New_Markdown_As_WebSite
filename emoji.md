@@ -3,7 +3,7 @@
  * @Date: 2020-06-25 17:26:25
  * @LastEditors: CollapseNav
  * @LastEditTime: 2020-06-25 20:51:55
- * @Description: 
+ * @Description:
 -->
 
 # 你值得拥有的Emoji 😂 🙏 👌
@@ -28,3 +28,5 @@ So easy !!!
 
 希望 🙏 没事
 
+
+[<--返回](./index.html)
