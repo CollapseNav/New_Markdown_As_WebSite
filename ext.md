@@ -3,8 +3,8 @@
  * @Date: 2020-06-21 00:24:14
  * @LastEditors: CollapseNav
  * @LastEditTime: 2020-08-11 09:05:35
- * @Description: 
---> 
+ * @Description:
+-->
 # 拓展
 
 ## 引用视频
@@ -32,14 +32,14 @@
 <div>
 <video id="sc" controls preload="none" width="100%">
   <!-- type需要对应上引用的资源 -->
-  <source src="./src/psc480.mp4"type="video/mp4">
+  <source src="./src/psc360.m4v"type="video/webm">
 </video>
 
 **Shelter 也超赞的！**
 
 <video id="sh" controls preload="none" width="100%">
   <!-- type需要对应上引用的资源 -->
-  <source src="./src/ps480.mp4" type="video/mp4">
+  <source src="./src/ps360.m4v" type="video/webm">
 </video>
 </div>
 
@@ -66,7 +66,7 @@
   折叠起来的内容...
 
   折叠起来的内容...
-  
+
 </details>
 ```
 
@@ -138,9 +138,9 @@
 
 ### 两个视频文件
 
-<a href="./src/Porter_Robinson_Something_Comforting.mp4" download="Porter Robinson-Something Comforting.mp4">Porter Robinson-Something Comforting</a>
+<a href="./src/psc360.m4v" download="Porter Robinson-Something Comforting.m4v">Porter Robinson-Something Comforting</a>
 
-<a href="./src/Porter_Robinson_Madeon_Shelter.mp4" download="Porter Robinson Madeon Shelter.mp4">Porter Robinson-Shelter</a>
+<a href="./src/psc360.m4v" download="Porter Robinson Madeon Shelter.m4v">Porter Robinson-Shelter</a>
 
 
 ## 可运行的代码块
